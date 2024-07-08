@@ -1,6 +1,6 @@
 # TinCat - dating app for cats
 
-TinCat is a dating app designed for cats, built using CSS, HTML, and Bootstrap. It offers a straightforward interface where cats can create profiles, swipe through potential matches, and connect based on shared interests. Utilizing Bootstrap ensures the app is user-friendly and works well on different devices, making it easy for cats to navigate and find companionship online.
+TinCat is a dating app designed for cats, built using CSS, HTML, and Bootstrap. It offers a straightforward interface where cats can create profiles, buy a monthly package and meet new cats. Utilizing Bootstrap ensures the app is user-friendly and works well on different devices, making it easy for cats to navigate and find companionship online.
 
 HomePage
 
